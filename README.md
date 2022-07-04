@@ -8,29 +8,8 @@
 
 <h1 align="center">Mylinks</h1>
 
-<p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/ElaineDelgado/mylinks?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/ElaineDelgado/mylinks?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ElaineDelgado/mylinks?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/ElaineDelgado/mylinks?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/ElaineDelgado/mylinks?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/ElaineDelgado/mylinks?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/ElaineDelgado/mylinks?color=56BEB8" /> -->
-</p>
-
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Mylinks 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
+<hr> 
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -46,23 +25,19 @@
 
 ## :dart: About ##
 
-Describe your project
+Página contendo lista de links no estilo do LinkTree muito utilizado no Instragram.
 
 ## :sparkles: Features ##
+Você pode colocar seus links nessa página e disponibilizar apenas um link em seu Instagram, ou outra rede solcial.
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- HTML5;
+- CSS3;
 
 ## :white_check_mark: Requirements ##
 
@@ -71,27 +46,18 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 ## :checkered_flag: Starting ##
 
 ```bash
-# Clone this project
+# Clone este projeto.
 $ git clone https://github.com/ElaineDelgado/mylinks
 
-# Access
-$ cd mylinks
-
-# Install dependencies
-$ yarn
-
 # Run the project
-$ yarn start
+$ Na pasta do arquivo localizar o index.html, abrir com Chrome, ou outro browser.
 
-# The server will initialize in the <http://localhost:3000>
+# The server will initialize in the <index.html>
 ```
 
-## :memo: License ##
-
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/ElaineDelgado" target="_blank">Elaine Delgado</a>
+Feito com  :heart: by <a href="https://github.com/ElaineDelgado" target="_blank">Elaine Delgado</a>
 
 &#xa0;
 
