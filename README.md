@@ -26,6 +26,9 @@
 ## :dart: About ##
 
 Página contendo lista de links no estilo do LinkTree muito utilizado no Instragram.
+<br>
+
+<img alt="Github issues" src="https://i.imgur.com/fWzpBNO.png" />
 
 ## :sparkles: Features ##
 Você pode colocar seus links nessa página e disponibilizar apenas um link em seu Instagram, ou outra rede solcial.
@@ -34,7 +37,7 @@ Você pode colocar seus links nessa página e disponibilizar apenas um link em s
 
 ## :rocket: Technologies ##
 
-The following tools were used in this project:
+As seguintes tecnologias foram utilizadas neste projeto:
 
 - HTML5;
 - CSS3;
